@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RMC2oX+lmU3NangwrGjHD4YOUqDjqQODcncwZKCkqiwM9HpFXsG06w14yrzgBW49PhXTfnibexlRp0g1Ed+bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\watki\\desktop\\ConsoleApiCall\\ConsoleApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\watki\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}

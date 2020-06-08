@@ -1,0 +1,16 @@
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.exe
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.deps.json
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.runtimeconfig.json
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.runtimeconfig.dev.json
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.dll
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\ConsoleApiCall.pdb
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.csprojAssemblyReference.cache
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.csproj.CoreCompileInputs.cache
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.AssemblyInfoInputs.cache
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.AssemblyInfo.cs
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.csproj.CopyComplete
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.dll
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.pdb
+C:\Users\watki\desktop\ConsoleApiCall\obj\Debug\netcoreapp3.1\ConsoleApiCall.genruntimeconfig.cache
+C:\Users\watki\desktop\ConsoleApiCall\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
